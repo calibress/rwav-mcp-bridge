@@ -50,4 +50,4 @@ Paste this into your host’s MCP settings:
 
 ---
 
-© Calibress Audio. RWAV Bridge MCP.
+© Calibre Software Systems Ltd (trading as Calibress). RWAV Bridge MCP.
